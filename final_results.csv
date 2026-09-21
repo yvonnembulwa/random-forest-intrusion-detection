@@ -1,0 +1,5 @@
+Attack Type,Samples,Detected,Accuracy,Precision,Recall,F1-Score
+flooding,9697,9696,99.99%,0.4670,0.9999,0.6366
+impersonation,9704,9449,97.37%,0.7416,0.9737,0.8419
+injection,13076,13076,100.00%,0.9968,1.0000,0.9984
+normal,326638,312490,95.67%,1.0000,0.9567,0.9779
